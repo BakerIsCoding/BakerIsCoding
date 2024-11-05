@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on  [btools.me](https://btools.me/)</p>
+- 🔭 I’m currently working on [btools.me](https://btools.me/)
 
 ###
 
